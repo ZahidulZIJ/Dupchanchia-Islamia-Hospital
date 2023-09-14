@@ -1,0 +1,19 @@
+body{ margin-top: 0px;
+    margin: 0px;}
+.header{margin:0px;
+    margin-top: 0px ;
+        height:230px;
+        width: 100%;
+        background-color:#1B9CFC;
+        color: aliceblue;
+        font-size: 30px;}
+        /* this is logo  */
+        .header .logo{ background-image: url(logoincon/logofinal.png);
+                       background-size:100% 100%;
+                       height:120%;
+                       width:16%;
+                       
+                       float: left;
+                       margin-left: 5px;}
+        .header .h{float:center; 
+                    }
